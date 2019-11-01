@@ -2,11 +2,14 @@
 Thumbs.db
  
 #Ignore files created by Visual Studio
+.vs
 *.user
 *.suo
 *.sln.docstates
 [Oo]bj/
 [Bb]in/
+[Pp]ackages/
+*.p7s
  
 #Ignore files created by ReSharper
 _ReSharper*/
